@@ -1,0 +1,5 @@
+46085755,Martínez Mañas,23,AB,V,artificial|3.5,4.0,6.1,6.9,7.5,8.6,9.3
+46085756,Vicent Merino,12,A,H,neutra|3.6,4.7,5.1,5.9,6.5,7.5,8.3
+46085757,Gonzalo Amat,10,A,V,artificial|3.8,4.5,7.4,8.7,9.0,9.7,10.7
+46085758,Piera Moreno,11,B,H,natural|3.5,4.6,5.6,6.4,7.5,8.4,9.5
+46085759,Soriano Bañuls,11,B,V,artificial|3.3,4.2,5.1,6.2,7.4,8.2,9.3
